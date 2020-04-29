@@ -12,7 +12,7 @@ class Document(models.Model):
 	1. 3 source choices as mentioned below.
 	2. Source ID can be any string.
 	3. input_meta_data can store any key value pairs in dictionary.
-    """
+	"""
 
 	SOURCE_CHOICE_1 = 1
 	SOURCE_CHOICE_2 = 2
